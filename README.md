@@ -10,7 +10,7 @@
 - I’m currently exploring Reactive Web application
 - Skilled in full-stack development with a focus on the MERN stack(MongoDB, Express js ,React ,Node js).
 
-- 📫 How to reach me **Email-sanjansanjanraj@gmail.com**
+- 📫 How to reach me Email-**sanjansanjanraj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
