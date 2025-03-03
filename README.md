@@ -5,9 +5,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjan174](https://github.com/sanjan174)
 
-- 💬 Ask me about - 🔍I'm Proficient in front -end and back-end development
--  🔧I’m currently exploring Reactive Web application
--   Skilled in full-stack development with a focus on the MERN stack(MongoDB, Express js ,React ,Node js).
+- 💬 Ask me about
+- I'm Proficient in front -end and back-end development
+- I’m currently exploring Reactive Web application
+- Skilled in full-stack development with a focus on the MERN stack(MongoDB, Express js ,React ,Node js).
 
 - 📫 How to reach me **Email-sanjansanjanraj@gmail.com**
 
